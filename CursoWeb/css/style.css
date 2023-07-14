@@ -1,0 +1,128 @@
+   body {
+       margin: 0px;
+        font-family: nunito;
+
+   }
+
+   article {
+       max-width: 850px;
+       margin: auto;
+       padding: 8px;
+       padding-top: 70px;
+
+
+   }
+
+   header {
+       background-color: #2E94CC;
+       text-align: center;
+       font-size: 24px;
+       color: #FFFFFF;
+       font-family: Arial, Helvetica, sans-serif;
+       padding-top: 25px;
+       padding-bottom: 25px;
+   }
+
+
+   
+   .hero-image{
+    margin: 50px 0px;
+   }
+   .hero-image img {
+       max-width: 100%;
+   }
+
+   .author {
+       color: #6C6C6C;
+       font-family: 'Nunito Sans';
+       font-size: 12px;
+       line-height: 22px;
+   }
+
+   .share,
+   .related {
+       color: #000;
+       font-family: 'Nunito Sans';
+       font-size: 12px;
+       line-height: 22px;
+   }
+
+   .related{
+    margin-bottom: 12px;
+   }
+
+   
+   h1 {
+       font-family: arial;
+       font-size: 52px;
+       font-weight: 400;
+       line-height: 58px;
+       letter-spacing: 0.78px;
+       margin: 0px;
+    }
+
+    a{
+        color: #2E94CC;
+    }
+    .share{
+        margin-top: 17px;
+    }
+    .share, span{
+        margin-right:7px;
+        
+    }
+
+    .share img{
+        vertical-align: middle;
+    }
+  
+    article p{
+        font-size: 16px;
+        line-height: 24px;
+    }
+    #content-section{
+        max-width: 680px;
+        margin: auto;
+    }
+
+    .uppercase{
+        text-transform: uppercase;
+    }
+    
+    iframe{
+        max-width: 100%;
+        margin: 50px 0px;
+       
+    }
+
+    #related{
+        max-width: 680px;
+        margin: auto;
+        padding-top: 70px;
+        
+    }
+
+    footer ul{
+        list-style-type: none;
+        padding: 0;
+    }
+
+    footer li{
+        
+font-size: 16px;
+font-weight: 400;
+line-height: 20px;
+margin-bottom: 12px;
+    }
+
+    footer ul li:last-of-type{
+        margin-bottom: 0;
+    }
+
+    footer{
+        background-color: #f1f1f1;
+        max-width: 680px;
+        margin: auto;
+        padding: 25px 15px;
+        margin-bottom: 70px;
+    }
